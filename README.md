@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Soban</h1>
 <h3 align="center">A passionate developer building cool things with code</h3>
 
 <p align="center">
@@ -24,7 +24,6 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **PROJECT_NAME**
 - 🌱 I'm currently learning **TECHNOLOGY**
 - 👯 I'm looking to collaborate on **TOPIC**
 - 💬 Ask me about **YOUR_EXPERTISE**
