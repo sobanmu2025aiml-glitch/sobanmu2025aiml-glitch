@@ -1,18 +1,19 @@
 # Hi there, I'm Soban! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E5BFF&width=435&lines=Software+Developer;Tech+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E5BFF&width=435&lines=Software+Developer;Python+%26+Java+Enthusiast;Database+Architect;Problem+Solver" alt="Typing SVG" />
 </p>
 
-> *"Building clean code and continuous learning."*
+> *"Writing clean, efficient, and structured code."*
 
 ---
 
 ### 🚀 About Me
 
-* 🔭 **Currently working on:** Exciting web/software development projects.
-* 🌱 **Currently learning:** Advanced architecture, system design, and cloud technologies.
-* ⚡ **Fun fact:** I love solving complex technical problems and optimizing workflows.
+* 💻 **Core Stack:** Python | Java | C | MySQL
+* 🔭 **Currently working on:** Building scalable software solutions and backend systems.
+* 🌱 **Currently learning:** Advanced data structures, system design, and database optimization.
+* ⚡ **Focus:** Writing high-performance code and database design.
 
 ---
 
@@ -20,9 +21,9 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, HTML5, CSS3, C++ |
-| **Frameworks** | React, Node.js, Express, Tailwind CSS |
-| **Tools & Platforms** | Git, GitHub, VS Code, Linux, Docker |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
+| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
 
 ---
 
